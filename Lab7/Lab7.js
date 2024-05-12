@@ -3,11 +3,9 @@ chech(first)
 
 prosti();
 
-let third = prompt('Etern number for 3 exercise: ');
+let third = prompt('Ente number for 3 exercise: ');
 easy(third);
 
-
-// 1 exercise
 function chech (num){
 	if(isNaN(first) === false){
 		if(first%2 == 0) {
@@ -22,7 +20,6 @@ function chech (num){
 	}
 	}
 
-// 2 exercise
 function prosti(){
 let array  = [];
 let search = 0;
@@ -60,7 +57,7 @@ for(let z = 0 ;z<5;z++){
 
 alert (sam);
 }
-// 3 exercise
+
 function easy(third){
     let resault = 0;
     let ones = "0";
